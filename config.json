@@ -6,14 +6,23 @@
     "monetag_id": "10110498"
   },
   "ads_config": {
-    "interstitial_ids": ["12345"],
+    "interstitial_ids": [],
     "banners": []
   },
   "filters": [
-    { "id": "viral", "name": "ভাইরাল" },
-    { "id": "funny", "name": "ফানি" }
+    {
+      "id": "viral",
+      "name": "ভাইরাল"
+    },
+    {
+      "id": "funny",
+      "name": "ফানি"
+    }
   ],
   "links": [
-    { "title": "টেলিগ্রাম চ্যানেল", "url": "https://t.me/your_channel" }
+    {
+      "title": "টেলিগ্রাম চ্যানেল",
+      "url": "https://t.me/your_channel"
+    }
   ]
 }
