@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "ads_limit": 20,
+    "bot_app_link": "https://t.me/your_bot/app",
+    "tutorial_id": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "monetag_id": "10110498"
+  },
+  "ads_config": {
+    "interstitial_ids": ["12345"],
+    "banners": []
+  },
+  "filters": [
+    { "id": "viral", "name": "ভাইরাল" },
+    { "id": "funny", "name": "ফানি" }
+  ],
+  "links": [
+    { "title": "টেলিগ্রাম চ্যানেল", "url": "https://t.me/your_channel" }
+  ]
+}
