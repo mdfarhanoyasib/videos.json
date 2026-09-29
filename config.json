@@ -7,7 +7,8 @@
     "how_to_watch_url": "",
     "maintenance_mode": false,
     "adsterra_link": "https://www.profitableratecpmnetwork.com/y85ifza5gr?key=e9b99b25f711bbb90b766acc16908635",
-    "cooldown_minutes": 60
+    "cooldown_minutes": 60,
+    "daily_video_limit": 8
   },
   "ads_config": {
     "interstitial_ids": [],
