@@ -21,7 +21,7 @@
     "bundle_title_template": "নতুন {count}টি মজার ভিডিও আপলোড দেওয়া হয়েছে",
     "monetag_id": "11802292",
     "adsterra_link": "https://www.profitableratecpmnetwork.com/y85ifza5gr?key=e9b99b25f711bbb90b766acc16908635",
-    "daily_video_limit": 20,
+    "daily_video_limit": 8,
     "cooldown_minutes": 60,
     "maintenance_mode": false
   },
@@ -5012,13 +5012,6 @@
     "5978012042": 5978012042
   },
   "unlock_logs.json": [
-    {
-      "time": 1790618115.7874873,
-      "user_id": 8255496634,
-      "name": "Jakir Hosen",
-      "username": "",
-      "video_id": "790"
-    },
     {
       "time": 1790618160.2011917,
       "user_id": 8955809792,
@@ -15588,33 +15581,37 @@
       "name": "Azad Mirza",
       "username": "",
       "video_id": "262"
+    },
+    {
+      "time": 1790704528.8250606,
+      "user_id": 8915841177,
+      "name": "V K",
+      "username": "",
+      "video_id": "706"
+    },
+    {
+      "time": 1790704530.6563537,
+      "user_id": 5112450345,
+      "name": "ASTA Dikmon",
+      "username": "Asta_dikmon",
+      "video_id": "371"
+    },
+    {
+      "time": 1790704547.3725278,
+      "user_id": 5803556046,
+      "name": "Sk Salman",
+      "username": "",
+      "video_id": "288"
+    },
+    {
+      "time": 1790704552.6883934,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "446"
     }
   ],
   "unlocked_deliveries.json": [
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25014,
-        25015
-      ],
-      "expire_at": 1790704521.1537504
-    },
-    {
-      "user_id": 5112450345,
-      "message_ids": [
-        25017,
-        25018
-      ],
-      "expire_at": 1790704525.3967195
-    },
-    {
-      "user_id": 6587201483,
-      "message_ids": [
-        25020,
-        25021
-      ],
-      "expire_at": 1790704531.758477
-    },
     {
       "user_id": 8768077237,
       "message_ids": [
@@ -15975,6 +15972,38 @@
         25195
       ],
       "expire_at": 1790705411.3679442
+    },
+    {
+      "user_id": 8915841177,
+      "message_ids": [
+        25200,
+        25202
+      ],
+      "expire_at": 1790705429.5622106
+    },
+    {
+      "user_id": 5112450345,
+      "message_ids": [
+        25203,
+        25204
+      ],
+      "expire_at": 1790705431.1160018
+    },
+    {
+      "user_id": 5803556046,
+      "message_ids": [
+        25209,
+        25210
+      ],
+      "expire_at": 1790705447.7425964
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25213,
+        25215
+      ],
+      "expire_at": 1790705453.3591058
     }
   ],
   "auto_post_cycle.json": {
