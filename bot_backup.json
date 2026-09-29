@@ -20,7 +20,7 @@
     ],
     "bundle_title_template": "নতুন {count}টি মজার ভিডিও আপলোড দেওয়া হয়েছে",
     "monetag_id": "11802292",
-    "adsterra_link": "",
+    "adsterra_link": "https://www.profitableratecpmnetwork.com/y85ifza5gr?key=e9b99b25f711bbb90b766acc16908635",
     "daily_video_limit": 20,
     "cooldown_minutes": 30,
     "maintenance_mode": false
@@ -5012,20 +5012,6 @@
     "5978012042": 5978012042
   },
   "unlock_logs.json": [
-    {
-      "time": 1790617511.1288712,
-      "user_id": 7368660833,
-      "name": "RT Obaidul",
-      "username": "",
-      "video_id": "695"
-    },
-    {
-      "time": 1790617515.8376982,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "799"
-    },
     {
       "time": 1790617550.4318945,
       "user_id": 6611303769,
@@ -15602,49 +15588,44 @@
       "name": "ASTA Dikmon",
       "username": "Asta_dikmon",
       "video_id": "453"
+    },
+    {
+      "time": 1790703867.326349,
+      "user_id": 6587201483,
+      "name": "𝐓𝐀𝐍𝐉𝐈𝐋 || 𝐌𝐎𝐃𝐄𝐋 𝟕𝐗 -🧣",
+      "username": "model_tanjil",
+      "video_id": "555"
+    },
+    {
+      "time": 1790703889.357207,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "380"
+    },
+    {
+      "time": 1790703906.2387183,
+      "user_id": 8915841177,
+      "name": "V K",
+      "username": "",
+      "video_id": "717"
+    },
+    {
+      "time": 1790703930.5254877,
+      "user_id": 5803556046,
+      "name": "Sk Salman",
+      "username": "",
+      "video_id": "615"
+    },
+    {
+      "time": 1790703933.9585478,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "502"
     }
   ],
   "unlocked_deliveries.json": [
-    {
-      "user_id": 8768077237,
-      "message_ids": [
-        24886,
-        24887
-      ],
-      "expire_at": 1790703857.3577461
-    },
-    {
-      "user_id": 7994518336,
-      "message_ids": [
-        24889,
-        24890
-      ],
-      "expire_at": 1790703877.7716563
-    },
-    {
-      "user_id": 6587201483,
-      "message_ids": [
-        24892,
-        24893
-      ],
-      "expire_at": 1790703903.6187906
-    },
-    {
-      "user_id": 8971834858,
-      "message_ids": [
-        24895,
-        24896
-      ],
-      "expire_at": 1790703909.2246003
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        24898,
-        24899
-      ],
-      "expire_at": 1790703937.9219368
-    },
     {
       "user_id": 8915841177,
       "message_ids": [
@@ -16054,6 +16035,47 @@
         25064
       ],
       "expire_at": 1790704745.1853957
+    },
+    {
+      "user_id": 6587201483,
+      "message_ids": [
+        25068,
+        25069
+      ],
+      "expire_at": 1790704768.3076303
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25072,
+        25073
+      ],
+      "expire_at": 1790704789.8634477
+    },
+    {
+      "user_id": 8915841177,
+      "message_ids": [
+        25077,
+        25078,
+        25079
+      ],
+      "expire_at": 1790704806.9717298
+    },
+    {
+      "user_id": 5803556046,
+      "message_ids": [
+        25082,
+        25083
+      ],
+      "expire_at": 1790704830.8847811
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25085,
+        25086
+      ],
+      "expire_at": 1790704834.391099
     }
   ],
   "auto_post_cycle.json": {
