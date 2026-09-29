@@ -2,7 +2,7 @@
   "admin_settings.json": {
     "category": "ch*il*d",
     "cat_name": "বা*চ্চা*দের",
-    "ads": 4,
+    "ads": 3,
     "is_popular": false,
     "pop_broadcast": false,
     "broadcast_mode": false,
@@ -5009,212 +5009,11 @@
     "awralamin": 6035118813,
     "6035118813": 6035118813,
     "5803556046": 5803556046,
-    "5978012042": 5978012042
+    "5978012042": 5978012042,
+    "yasamiha": 6148749806,
+    "6148749806": 6148749806
   },
   "unlock_logs.json": [
-    {
-      "time": 1790618160.2011917,
-      "user_id": 8955809792,
-      "name": "Munna Hossan",
-      "username": "",
-      "video_id": "800"
-    },
-    {
-      "time": 1790618207.0594635,
-      "user_id": 6611303769,
-      "name": "Shree Arjun thakur",
-      "username": "",
-      "video_id": "802"
-    },
-    {
-      "time": 1790618228.1651459,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "742"
-    },
-    {
-      "time": 1790618281.6986563,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "562"
-    },
-    {
-      "time": 1790618285.048028,
-      "user_id": 8790424772,
-      "name": "Sarwar",
-      "username": "",
-      "video_id": "695"
-    },
-    {
-      "time": 1790618296.9213917,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "594"
-    },
-    {
-      "time": 1790618331.2842321,
-      "user_id": 8255496634,
-      "name": "Jakir Hosen",
-      "username": "",
-      "video_id": "663"
-    },
-    {
-      "time": 1790618333.8517997,
-      "user_id": 6663388965,
-      "name": "রাজকুমার",
-      "username": "",
-      "video_id": "799"
-    },
-    {
-      "time": 1790618349.904097,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "594"
-    },
-    {
-      "time": 1790618388.4578094,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "781"
-    },
-    {
-      "time": 1790618388.5198457,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "781"
-    },
-    {
-      "time": 1790618408.083947,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "459"
-    },
-    {
-      "time": 1790618413.459488,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "686"
-    },
-    {
-      "time": 1790618457.109095,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "681"
-    },
-    {
-      "time": 1790618527.3447306,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "701"
-    },
-    {
-      "time": 1790618536.440559,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "780"
-    },
-    {
-      "time": 1790618547.2971823,
-      "user_id": 5157290148,
-      "name": "Ratri Ratri",
-      "username": "kratinnvc",
-      "video_id": "713"
-    },
-    {
-      "time": 1790618574.034764,
-      "user_id": 7646095494,
-      "name": "SAIF CHOWDHURY",
-      "username": "",
-      "video_id": "594"
-    },
-    {
-      "time": 1790618580.5614376,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "669"
-    },
-    {
-      "time": 1790618636.9296665,
-      "user_id": 6663388965,
-      "name": "রাজকুমার",
-      "username": "",
-      "video_id": "742"
-    },
-    {
-      "time": 1790618639.3490453,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "579"
-    },
-    {
-      "time": 1790618648.6872833,
-      "user_id": 8904662848,
-      "name": "Stray Gods",
-      "username": "",
-      "video_id": "695"
-    },
-    {
-      "time": 1790618667.5273921,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "697"
-    },
-    {
-      "time": 1790618702.5566149,
-      "user_id": 6961735152,
-      "name": "Your Bro",
-      "username": "",
-      "video_id": "695"
-    },
-    {
-      "time": 1790618756.2848606,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "723"
-    },
-    {
-      "time": 1790618761.1458468,
-      "user_id": 8602328170,
-      "name": "Habib",
-      "username": "",
-      "video_id": "594"
-    },
-    {
-      "time": 1790618767.9435005,
-      "user_id": 5157290148,
-      "name": "Ratri Ratri",
-      "username": "kratinnvc",
-      "video_id": "758"
-    },
-    {
-      "time": 1790618819.3688133,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "706"
-    },
-    {
-      "time": 1790618855.8782716,
-      "user_id": 8602328170,
-      "name": "Habib",
-      "username": "",
-      "video_id": "793"
-    },
     {
       "time": 1790618876.2170858,
       "user_id": 6663388965,
@@ -15609,322 +15408,135 @@
       "name": "Azad Mirza",
       "username": "",
       "video_id": "446"
+    },
+    {
+      "time": 1790704577.5158658,
+      "user_id": 8915841177,
+      "name": "V K",
+      "username": "",
+      "video_id": "741"
+    },
+    {
+      "time": 1790704589.546771,
+      "user_id": 8909614352,
+      "name": "❥ 𝗦.𝗩™ ❈ Sajib❤️ Hassan",
+      "username": "Sajiber321",
+      "video_id": "586"
+    },
+    {
+      "time": 1790704591.9495692,
+      "user_id": 6130816699,
+      "name": "Rahim Islam",
+      "username": "",
+      "video_id": "588"
+    },
+    {
+      "time": 1790704598.46819,
+      "user_id": 6148749806,
+      "name": "Samiha",
+      "username": "YaSamiha",
+      "video_id": "687"
+    },
+    {
+      "time": 1790704658.4648316,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "780"
+    },
+    {
+      "time": 1790704668.6852398,
+      "user_id": 5803556046,
+      "name": "Sk Salman",
+      "username": "",
+      "video_id": "777"
+    },
+    {
+      "time": 1790704669.1723566,
+      "user_id": 5803556046,
+      "name": "Sk Salman",
+      "username": "",
+      "video_id": "777"
+    },
+    {
+      "time": 1790704690.4698074,
+      "user_id": 5112450345,
+      "name": "ASTA Dikmon",
+      "username": "Asta_dikmon",
+      "video_id": "692"
+    },
+    {
+      "time": 1790704706.9420714,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "674"
+    },
+    {
+      "time": 1790704742.0327904,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "265"
+    },
+    {
+      "time": 1790704771.3607626,
+      "user_id": 6130816699,
+      "name": "Rahim Islam",
+      "username": "",
+      "video_id": "797"
+    },
+    {
+      "time": 1790704793.177918,
+      "user_id": 8909614352,
+      "name": "❥ 𝗦.𝗩™ ❈ Sajib❤️ Hassan",
+      "username": "Sajiber321",
+      "video_id": "598"
+    },
+    {
+      "time": 1790704848.0347433,
+      "user_id": 6130816699,
+      "name": "Rahim Islam",
+      "username": "",
+      "video_id": "794"
+    },
+    {
+      "time": 1790705049.8043635,
+      "user_id": 6130816699,
+      "name": "Rahim Islam",
+      "username": "",
+      "video_id": "597"
+    },
+    {
+      "time": 1790705110.4219055,
+      "user_id": 6148749806,
+      "name": "Samiha",
+      "username": "YaSamiha",
+      "video_id": "787"
+    },
+    {
+      "time": 1790705137.6730227,
+      "user_id": 6130816699,
+      "name": "Rahim Islam",
+      "username": "",
+      "video_id": "510"
+    },
+    {
+      "time": 1790705171.6788971,
+      "user_id": 7580090610,
+      "name": "IH Sagor",
+      "username": "",
+      "video_id": "765"
+    },
+    {
+      "time": 1790705267.0676086,
+      "user_id": 6148749806,
+      "name": "Samiha",
+      "username": "YaSamiha",
+      "video_id": "786"
     }
   ],
   "unlocked_deliveries.json": [
-    {
-      "user_id": 8768077237,
-      "message_ids": [
-        25025,
-        25026
-      ],
-      "expire_at": 1790704607.3103936
-    },
-    {
-      "user_id": 8768077237,
-      "message_ids": [
-        25028,
-        25029
-      ],
-      "expire_at": 1790704613.7567782
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        25032,
-        25033
-      ],
-      "expire_at": 1790704633.5640254
-    },
-    {
-      "user_id": 6587201483,
-      "message_ids": [
-        25037,
-        25038
-      ],
-      "expire_at": 1790704675.703928
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25040,
-        25041
-      ],
-      "expire_at": 1790704691.1567533
-    },
-    {
-      "user_id": 5978012042,
-      "message_ids": [
-        25045,
-        25046
-      ],
-      "expire_at": 1790704708.9036953
-    },
-    {
-      "user_id": 5803556046,
-      "message_ids": [
-        25050,
-        25051
-      ],
-      "expire_at": 1790704716.8217502
-    },
-    {
-      "user_id": 8768077237,
-      "message_ids": [
-        25053,
-        25054
-      ],
-      "expire_at": 1790704721.6055052
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        25057,
-        25058
-      ],
-      "expire_at": 1790704734.8150516
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25060,
-        25062
-      ],
-      "expire_at": 1790704743.634543
-    },
-    {
-      "user_id": 5112450345,
-      "message_ids": [
-        25063,
-        25064
-      ],
-      "expire_at": 1790704745.1853957
-    },
-    {
-      "user_id": 6587201483,
-      "message_ids": [
-        25068,
-        25069
-      ],
-      "expire_at": 1790704768.3076303
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25072,
-        25073
-      ],
-      "expire_at": 1790704789.8634477
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        25077,
-        25078,
-        25079
-      ],
-      "expire_at": 1790704806.9717298
-    },
-    {
-      "user_id": 5803556046,
-      "message_ids": [
-        25082,
-        25083
-      ],
-      "expire_at": 1790704830.8847811
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25085,
-        25086
-      ],
-      "expire_at": 1790704834.391099
-    },
-    {
-      "user_id": 5112450345,
-      "message_ids": [
-        25091,
-        25092
-      ],
-      "expire_at": 1790704862.6281662
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        25095,
-        25096
-      ],
-      "expire_at": 1790704875.6610835
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25098,
-        25099
-      ],
-      "expire_at": 1790704891.1220582
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25103,
-        25104
-      ],
-      "expire_at": 1790704940.0785754
-    },
-    {
-      "user_id": 5112450345,
-      "message_ids": [
-        25111,
-        25113
-      ],
-      "expire_at": 1790704979.8435628
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25109,
-        25112
-      ],
-      "expire_at": 1790704979.915397
-    },
-    {
-      "user_id": 8656705096,
-      "message_ids": [
-        25115,
-        25116
-      ],
-      "expire_at": 1790704985.1669815
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        25118,
-        25119
-      ],
-      "expire_at": 1790704991.569967
-    },
-    {
-      "user_id": 5803556046,
-      "message_ids": [
-        25121,
-        25122
-      ],
-      "expire_at": 1790705008.141844
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25124,
-        25125
-      ],
-      "expire_at": 1790705030.4775677
-    },
-    {
-      "user_id": 6587201483,
-      "message_ids": [
-        25127,
-        25128
-      ],
-      "expire_at": 1790705036.8325453
-    },
-    {
-      "user_id": 5112450345,
-      "message_ids": [
-        25130,
-        25131
-      ],
-      "expire_at": 1790705038.1342115
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        25133,
-        25134
-      ],
-      "expire_at": 1790705048.8837159
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25136,
-        25137
-      ],
-      "expire_at": 1790705092.69128
-    },
-    {
-      "user_id": 5112450345,
-      "message_ids": [
-        25143,
-        25144
-      ],
-      "expire_at": 1790705122.8565924
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25148,
-        25149
-      ],
-      "expire_at": 1790705154.5518293
-    },
-    {
-      "user_id": 5803556046,
-      "message_ids": [
-        25151,
-        25152
-      ],
-      "expire_at": 1790705183.931173
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25154,
-        25155
-      ],
-      "expire_at": 1790705194.0355866
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        25157,
-        25158
-      ],
-      "expire_at": 1790705224.3406785
-    },
-    {
-      "user_id": 8795333189,
-      "message_ids": [
-        25160,
-        25161
-      ],
-      "expire_at": 1790705227.3536792
-    },
-    {
-      "user_id": 8795333189,
-      "message_ids": [
-        25163,
-        25164
-      ],
-      "expire_at": 1790705229.7383451
-    },
-    {
-      "user_id": 5803556046,
-      "message_ids": [
-        25166,
-        25167
-      ],
-      "expire_at": 1790705240.8045373
-    },
-    {
-      "user_id": 8909614352,
-      "message_ids": [
-        25171,
-        25173
-      ],
-      "expire_at": 1790705244.235517
-    },
     {
       "user_id": 5112450345,
       "message_ids": [
@@ -16004,6 +15616,142 @@
         25215
       ],
       "expire_at": 1790705453.3591058
+    },
+    {
+      "user_id": 8915841177,
+      "message_ids": [
+        25218,
+        25219
+      ],
+      "expire_at": 1790705478.012094
+    },
+    {
+      "user_id": 8909614352,
+      "message_ids": [
+        25223,
+        25224
+      ],
+      "expire_at": 1790705489.8988137
+    },
+    {
+      "user_id": 6130816699,
+      "message_ids": [
+        25226,
+        25227
+      ],
+      "expire_at": 1790705492.3114824
+    },
+    {
+      "user_id": 6148749806,
+      "message_ids": [
+        25229,
+        25230
+      ],
+      "expire_at": 1790705498.8524244
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25234,
+        25235
+      ],
+      "expire_at": 1790705558.9341228
+    },
+    {
+      "user_id": 5803556046,
+      "message_ids": [
+        25237,
+        25240
+      ],
+      "expire_at": 1790705569.0456936
+    },
+    {
+      "user_id": 5803556046,
+      "message_ids": [
+        25239,
+        25241
+      ],
+      "expire_at": 1790705569.566219
+    },
+    {
+      "user_id": 5112450345,
+      "message_ids": [
+        25243,
+        25244
+      ],
+      "expire_at": 1790705591.2291076
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25246,
+        25247
+      ],
+      "expire_at": 1790705607.3363485
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25249,
+        25250
+      ],
+      "expire_at": 1790705642.794612
+    },
+    {
+      "user_id": 6130816699,
+      "message_ids": [
+        25252,
+        25253
+      ],
+      "expire_at": 1790705671.9316385
+    },
+    {
+      "user_id": 8909614352,
+      "message_ids": [
+        25255,
+        25256
+      ],
+      "expire_at": 1790705693.6673007
+    },
+    {
+      "user_id": 6130816699,
+      "message_ids": [
+        25258,
+        25259
+      ],
+      "expire_at": 1790705748.4047925
+    },
+    {
+      "user_id": 6130816699,
+      "message_ids": [
+        25263,
+        25264
+      ],
+      "expire_at": 1790705950.1352296
+    },
+    {
+      "user_id": 6148749806,
+      "message_ids": [
+        25266,
+        25267
+      ],
+      "expire_at": 1790706010.9704375
+    },
+    {
+      "user_id": 6130816699,
+      "message_ids": [
+        25269,
+        25270
+      ],
+      "expire_at": 1790706042.6307914
+    },
+    {
+      "user_id": 7580090610,
+      "message_ids": [
+        25272,
+        25273
+      ],
+      "expire_at": 1790706072.2290916
     }
   ],
   "auto_post_cycle.json": {
