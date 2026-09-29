@@ -4,7 +4,8 @@
     "bot_app_link": "https://t.me/File_Store_R0BOT/site",
     "tutorial_id": "https://www.youtube.com/embed/dQw4w9WgXcQ",
     "monetag_id": "11802292",
-    "how_to_watch_url": ""
+    "how_to_watch_url": "",
+    "maintenance_mode": true
   },
   "ads_config": {
     "interstitial_ids": [],
