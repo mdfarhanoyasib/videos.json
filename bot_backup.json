@@ -22,7 +22,7 @@
     "monetag_id": "11802292",
     "adsterra_link": "https://www.profitableratecpmnetwork.com/y85ifza5gr?key=e9b99b25f711bbb90b766acc16908635",
     "daily_video_limit": 20,
-    "cooldown_minutes": 30,
+    "cooldown_minutes": 60,
     "maintenance_mode": false
   },
   "banned_users.txt": "8912911353\n7553234597\n6142244258\n",
@@ -5012,202 +5012,6 @@
     "5978012042": 5978012042
   },
   "unlock_logs.json": [
-    {
-      "time": 1790617651.85041,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "791"
-    },
-    {
-      "time": 1790617653.403452,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "783"
-    },
-    {
-      "time": 1790617661.3257813,
-      "user_id": 8843946904,
-      "name": "Likhon",
-      "username": "",
-      "video_id": "773"
-    },
-    {
-      "time": 1790617671.7816799,
-      "user_id": 8602328170,
-      "name": "Habib",
-      "username": "",
-      "video_id": "801"
-    },
-    {
-      "time": 1790617679.3039367,
-      "user_id": 8255496634,
-      "name": "Jakir Hosen",
-      "username": "",
-      "video_id": "787"
-    },
-    {
-      "time": 1790617709.6493115,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "801"
-    },
-    {
-      "time": 1790617723.0574763,
-      "user_id": 6611303769,
-      "name": "Shree Arjun thakur",
-      "username": "",
-      "video_id": "368"
-    },
-    {
-      "time": 1790617739.8286893,
-      "user_id": 5157290148,
-      "name": "Ratri Ratri",
-      "username": "kratinnvc",
-      "video_id": "670"
-    },
-    {
-      "time": 1790617743.8279417,
-      "user_id": 7646095494,
-      "name": "SAIF CHOWDHURY",
-      "username": "",
-      "video_id": "801"
-    },
-    {
-      "time": 1790617753.43577,
-      "user_id": 6663388965,
-      "name": "রাজকুমার",
-      "username": "",
-      "video_id": "804"
-    },
-    {
-      "time": 1790617775.473091,
-      "user_id": 8955809792,
-      "name": "Munna Hossan",
-      "username": "",
-      "video_id": "791"
-    },
-    {
-      "time": 1790617800.8002212,
-      "user_id": 8843946904,
-      "name": "Likhon",
-      "username": "",
-      "video_id": "790"
-    },
-    {
-      "time": 1790617819.1113849,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "783"
-    },
-    {
-      "time": 1790617849.4046752,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "804"
-    },
-    {
-      "time": 1790617857.8363104,
-      "user_id": 5157290148,
-      "name": "Ratri Ratri",
-      "username": "kratinnvc",
-      "video_id": "651"
-    },
-    {
-      "time": 1790617859.0777168,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "785"
-    },
-    {
-      "time": 1790617863.8021224,
-      "user_id": 6611303769,
-      "name": "Shree Arjun thakur",
-      "username": "",
-      "video_id": "437"
-    },
-    {
-      "time": 1790617871.923026,
-      "user_id": 8843946904,
-      "name": "Likhon",
-      "username": "",
-      "video_id": "584"
-    },
-    {
-      "time": 1790617880.7702534,
-      "user_id": 8165403705,
-      "name": "Arif HOSSAIN",
-      "username": "",
-      "video_id": "663"
-    },
-    {
-      "time": 1790617888.3784235,
-      "user_id": 8602328170,
-      "name": "Habib",
-      "username": "",
-      "video_id": "787"
-    },
-    {
-      "time": 1790617898.0457838,
-      "user_id": 8255496634,
-      "name": "Jakir Hosen",
-      "username": "",
-      "video_id": "799"
-    },
-    {
-      "time": 1790617903.8841045,
-      "user_id": 8922578476,
-      "name": "RkRaselmia",
-      "username": "",
-      "video_id": "789"
-    },
-    {
-      "time": 1790617916.0582564,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "802"
-    },
-    {
-      "time": 1790617978.256001,
-      "user_id": 8955809792,
-      "name": "Munna Hossan",
-      "username": "",
-      "video_id": "789"
-    },
-    {
-      "time": 1790617990.0634754,
-      "user_id": 8602328170,
-      "name": "Habib",
-      "username": "",
-      "video_id": "804"
-    },
-    {
-      "time": 1790618001.7106073,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "793"
-    },
-    {
-      "time": 1790618015.363212,
-      "user_id": 5157290148,
-      "name": "Ratri Ratri",
-      "username": "kratinnvc",
-      "video_id": "737"
-    },
-    {
-      "time": 1790618048.4106526,
-      "user_id": 7029138631,
-      "name": "Abdullah",
-      "username": "",
-      "video_id": "797"
-    },
     {
       "time": 1790618115.7874873,
       "user_id": 8255496634,
@@ -15609,291 +15413,184 @@
       "name": "Azad Mirza",
       "username": "",
       "video_id": "378"
+    },
+    {
+      "time": 1790704079.0373042,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "504"
+    },
+    {
+      "time": 1790704079.4920244,
+      "user_id": 5112450345,
+      "name": "ASTA Dikmon",
+      "username": "Asta_dikmon",
+      "video_id": "683"
+    },
+    {
+      "time": 1790704084.7476041,
+      "user_id": 8656705096,
+      "name": "Sabbir",
+      "username": "NAIME_654",
+      "video_id": "453"
+    },
+    {
+      "time": 1790704090.9764812,
+      "user_id": 8915841177,
+      "name": "V K",
+      "username": "",
+      "video_id": "663"
+    },
+    {
+      "time": 1790704107.7601256,
+      "user_id": 5803556046,
+      "name": "Sk Salman",
+      "username": "",
+      "video_id": "546"
+    },
+    {
+      "time": 1790704130.084043,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "787"
+    },
+    {
+      "time": 1790704136.3506274,
+      "user_id": 6587201483,
+      "name": "𝐓𝐀𝐍𝐉𝐈𝐋 || 𝐌𝐎𝐃𝐄𝐋 𝟕𝐗 -🧣",
+      "username": "model_tanjil",
+      "video_id": "694"
+    },
+    {
+      "time": 1790704137.7465565,
+      "user_id": 5112450345,
+      "name": "ASTA Dikmon",
+      "username": "Asta_dikmon",
+      "video_id": "272"
+    },
+    {
+      "time": 1790704148.3980744,
+      "user_id": 8915841177,
+      "name": "V K",
+      "username": "",
+      "video_id": "673"
+    },
+    {
+      "time": 1790704192.2365212,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "738"
+    },
+    {
+      "time": 1790704222.2651331,
+      "user_id": 5112450345,
+      "name": "ASTA Dikmon",
+      "username": "Asta_dikmon",
+      "video_id": "356"
+    },
+    {
+      "time": 1790704254.187957,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "499"
+    },
+    {
+      "time": 1790704283.5610366,
+      "user_id": 5803556046,
+      "name": "Sk Salman",
+      "username": "",
+      "video_id": "282"
+    },
+    {
+      "time": 1790704293.686172,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "740"
+    },
+    {
+      "time": 1790704323.9340172,
+      "user_id": 8915841177,
+      "name": "V K",
+      "username": "",
+      "video_id": "586"
+    },
+    {
+      "time": 1790704326.981472,
+      "user_id": 8795333189,
+      "name": "Kawsar",
+      "username": "",
+      "video_id": "755"
+    },
+    {
+      "time": 1790704329.2956517,
+      "user_id": 8795333189,
+      "name": "Kawsar",
+      "username": "",
+      "video_id": "755"
+    },
+    {
+      "time": 1790704340.3020616,
+      "user_id": 5803556046,
+      "name": "Sk Salman",
+      "username": "",
+      "video_id": "779"
+    },
+    {
+      "time": 1790704343.8449206,
+      "user_id": 8909614352,
+      "name": "❥ 𝗦.𝗩™ ❈ Sajib❤️ Hassan",
+      "username": "Sajiber321",
+      "video_id": "663"
+    },
+    {
+      "time": 1790704378.0465949,
+      "user_id": 5112450345,
+      "name": "ASTA Dikmon",
+      "username": "Asta_dikmon",
+      "video_id": "368"
+    },
+    {
+      "time": 1790704397.2116039,
+      "user_id": 8915841177,
+      "name": "V K",
+      "username": "",
+      "video_id": "651"
+    },
+    {
+      "time": 1790704399.9914494,
+      "user_id": 5803556046,
+      "name": "Sk Salman",
+      "username": "",
+      "video_id": "355"
+    },
+    {
+      "time": 1790704466.1069152,
+      "user_id": 5112450345,
+      "name": "ASTA Dikmon",
+      "username": "Asta_dikmon",
+      "video_id": "355"
+    },
+    {
+      "time": 1790704472.4903831,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "786"
+    },
+    {
+      "time": 1790704510.5966752,
+      "user_id": 8779763877,
+      "name": "Azad Mirza",
+      "username": "",
+      "video_id": "262"
     }
   ],
   "unlocked_deliveries.json": [
-    {
-      "user_id": 6587201483,
-      "message_ids": [
-        24907,
-        24908
-      ],
-      "expire_at": 1790704104.0447345
-    },
-    {
-      "user_id": 7994518336,
-      "message_ids": [
-        24910,
-        24911
-      ],
-      "expire_at": 1790704120.2687252
-    },
-    {
-      "user_id": 5803556046,
-      "message_ids": [
-        24913,
-        24914,
-        24915
-      ],
-      "expire_at": 1790704143.1123862
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        24917,
-        24918
-      ],
-      "expire_at": 1790704161.044878
-    },
-    {
-      "user_id": 7994518336,
-      "message_ids": [
-        24920,
-        24921
-      ],
-      "expire_at": 1790704165.7880783
-    },
-    {
-      "user_id": 6777938627,
-      "message_ids": [
-        24923,
-        24924
-      ],
-      "expire_at": 1790704185.8647296
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        24926,
-        24927
-      ],
-      "expire_at": 1790704188.1018689
-    },
-    {
-      "user_id": 8768077237,
-      "message_ids": [
-        24929,
-        24930
-      ],
-      "expire_at": 1790704193.8364153
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        24932,
-        24933
-      ],
-      "expire_at": 1790704210.3987963
-    },
-    {
-      "user_id": 5803556046,
-      "message_ids": [
-        24935,
-        24936
-      ],
-      "expire_at": 1790704214.051647
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        24938,
-        24939
-      ],
-      "expire_at": 1790704223.8556585
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        24941,
-        24942
-      ],
-      "expire_at": 1790704245.300365
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        24944,
-        24945
-      ],
-      "expire_at": 1790704263.988343
-    },
-    {
-      "user_id": 7994518336,
-      "message_ids": [
-        24947,
-        24948
-      ],
-      "expire_at": 1790704274.9663606
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        24950,
-        24951
-      ],
-      "expire_at": 1790704279.2070458
-    },
-    {
-      "user_id": 6587201483,
-      "message_ids": [
-        24953,
-        24954
-      ],
-      "expire_at": 1790704297.2201884
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        24956,
-        24957
-      ],
-      "expire_at": 1790704299.8683093
-    },
-    {
-      "user_id": 5803556046,
-      "message_ids": [
-        24959,
-        24960
-      ],
-      "expire_at": 1790704304.2191744
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        24962,
-        24963
-      ],
-      "expire_at": 1790704326.8804066
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        24965,
-        24966
-      ],
-      "expire_at": 1790704359.0634365
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        24968,
-        24969
-      ],
-      "expire_at": 1790704368.594702
-    },
-    {
-      "user_id": 6587201483,
-      "message_ids": [
-        24971,
-        24972,
-        24973
-      ],
-      "expire_at": 1790704376.9898882
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        24975,
-        24976
-      ],
-      "expire_at": 1790704404.1103776
-    },
-    {
-      "user_id": 6587201483,
-      "message_ids": [
-        24978,
-        24979
-      ],
-      "expire_at": 1790704426.191016
-    },
-    {
-      "user_id": 8768077237,
-      "message_ids": [
-        24982,
-        24984
-      ],
-      "expire_at": 1790704434.5583518
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        24983,
-        24985
-      ],
-      "expire_at": 1790704434.7826633
-    },
-    {
-      "user_id": 5803556046,
-      "message_ids": [
-        24987,
-        24988
-      ],
-      "expire_at": 1790704437.4403799
-    },
-    {
-      "user_id": 6777938627,
-      "message_ids": [
-        24990,
-        24991
-      ],
-      "expire_at": 1790704443.648676
-    },
-    {
-      "user_id": 7994518336,
-      "message_ids": [
-        24993,
-        24994
-      ],
-      "expire_at": 1790704446.7713768
-    },
-    {
-      "user_id": 8915841177,
-      "message_ids": [
-        24996,
-        24997
-      ],
-      "expire_at": 1790704454.739116
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        24999,
-        25000
-      ],
-      "expire_at": 1790704463.052415
-    },
-    {
-      "user_id": 6587201483,
-      "message_ids": [
-        25002,
-        25003
-      ],
-      "expire_at": 1790704468.8814871
-    },
-    {
-      "user_id": 8779763877,
-      "message_ids": [
-        25005,
-        25006
-      ],
-      "expire_at": 1790704497.0837872
-    },
-    {
-      "user_id": 5112450345,
-      "message_ids": [
-        25008,
-        25009
-      ],
-      "expire_at": 1790704499.3252933
-    },
-    {
-      "user_id": 5803556046,
-      "message_ids": [
-        25011,
-        25012
-      ],
-      "expire_at": 1790704507.7716255
-    },
     {
       "user_id": 8779763877,
       "message_ids": [
@@ -16078,6 +15775,206 @@
         25104
       ],
       "expire_at": 1790704940.0785754
+    },
+    {
+      "user_id": 5112450345,
+      "message_ids": [
+        25111,
+        25113
+      ],
+      "expire_at": 1790704979.8435628
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25109,
+        25112
+      ],
+      "expire_at": 1790704979.915397
+    },
+    {
+      "user_id": 8656705096,
+      "message_ids": [
+        25115,
+        25116
+      ],
+      "expire_at": 1790704985.1669815
+    },
+    {
+      "user_id": 8915841177,
+      "message_ids": [
+        25118,
+        25119
+      ],
+      "expire_at": 1790704991.569967
+    },
+    {
+      "user_id": 5803556046,
+      "message_ids": [
+        25121,
+        25122
+      ],
+      "expire_at": 1790705008.141844
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25124,
+        25125
+      ],
+      "expire_at": 1790705030.4775677
+    },
+    {
+      "user_id": 6587201483,
+      "message_ids": [
+        25127,
+        25128
+      ],
+      "expire_at": 1790705036.8325453
+    },
+    {
+      "user_id": 5112450345,
+      "message_ids": [
+        25130,
+        25131
+      ],
+      "expire_at": 1790705038.1342115
+    },
+    {
+      "user_id": 8915841177,
+      "message_ids": [
+        25133,
+        25134
+      ],
+      "expire_at": 1790705048.8837159
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25136,
+        25137
+      ],
+      "expire_at": 1790705092.69128
+    },
+    {
+      "user_id": 5112450345,
+      "message_ids": [
+        25143,
+        25144
+      ],
+      "expire_at": 1790705122.8565924
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25148,
+        25149
+      ],
+      "expire_at": 1790705154.5518293
+    },
+    {
+      "user_id": 5803556046,
+      "message_ids": [
+        25151,
+        25152
+      ],
+      "expire_at": 1790705183.931173
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25154,
+        25155
+      ],
+      "expire_at": 1790705194.0355866
+    },
+    {
+      "user_id": 8915841177,
+      "message_ids": [
+        25157,
+        25158
+      ],
+      "expire_at": 1790705224.3406785
+    },
+    {
+      "user_id": 8795333189,
+      "message_ids": [
+        25160,
+        25161
+      ],
+      "expire_at": 1790705227.3536792
+    },
+    {
+      "user_id": 8795333189,
+      "message_ids": [
+        25163,
+        25164
+      ],
+      "expire_at": 1790705229.7383451
+    },
+    {
+      "user_id": 5803556046,
+      "message_ids": [
+        25166,
+        25167
+      ],
+      "expire_at": 1790705240.8045373
+    },
+    {
+      "user_id": 8909614352,
+      "message_ids": [
+        25171,
+        25173
+      ],
+      "expire_at": 1790705244.235517
+    },
+    {
+      "user_id": 5112450345,
+      "message_ids": [
+        25175,
+        25176
+      ],
+      "expire_at": 1790705278.4078395
+    },
+    {
+      "user_id": 8915841177,
+      "message_ids": [
+        25182,
+        25183
+      ],
+      "expire_at": 1790705297.7013674
+    },
+    {
+      "user_id": 5803556046,
+      "message_ids": [
+        25185,
+        25186
+      ],
+      "expire_at": 1790705300.4716997
+    },
+    {
+      "user_id": 5112450345,
+      "message_ids": [
+        25188,
+        25189
+      ],
+      "expire_at": 1790705366.6083007
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25191,
+        25192
+      ],
+      "expire_at": 1790705372.9042323
+    },
+    {
+      "user_id": 8779763877,
+      "message_ids": [
+        25194,
+        25195
+      ],
+      "expire_at": 1790705411.3679442
     }
   ],
   "auto_post_cycle.json": {
