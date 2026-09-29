@@ -5,7 +5,7 @@
     "tutorial_id": "https://www.youtube.com/embed/dQw4w9WgXcQ",
     "monetag_id": "11802292",
     "how_to_watch_url": "",
-    "maintenance_mode": true
+    "maintenance_mode": false
   },
   "ads_config": {
     "interstitial_ids": [],
