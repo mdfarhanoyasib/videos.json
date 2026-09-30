@@ -4594,7 +4594,8 @@
   },
   "category_defaults.json": {
     "ch*il*d": {
-      "title_template": "বা*চ্চা*দের ভাইরাল {count} টি ভিডিও আপলোড দেওয়া হয়েছে দেখে আসুন মাল আউট হয়ে যাবে 🥵🔥"
+      "title_template": "বা*চ্চা*দের ভাইরাল {count} টি ভিডিও আপলোড দেওয়া হয়েছে দেখে আসুন মাল আউট হয়ে যাবে 🥵🔥",
+      "thumbnail_url": "https://i.ibb.co/mC3p54NS/ba1ae010d814.jpg"
     }
   },
   "auto_post_cycle.json": {
