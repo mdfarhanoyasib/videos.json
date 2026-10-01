@@ -25,7 +25,7 @@
     "cooldown_minutes": 60,
     "maintenance_mode": false,
     "maintenance_link": "https://t.me/+8YFNIdFVSjU5M2Y9",
-    "single_ad_unlock": true,
+    "single_ad_unlock": false,
     "single_ad_seconds": 15
   },
   "broadcast_records.json": {
