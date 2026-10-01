@@ -7,7 +7,7 @@
     "pop_broadcast": false,
     "broadcast_mode": false,
     "bundle_mode": false,
-    "auto_burst_post": true,
+    "auto_burst_post": false,
     "blur_radius": 6,
     "how_to_watch_url": "👥 মোট ইউজার",
     "unban_contact_url": "https://t.me/NAIME_654",
@@ -23,7 +23,7 @@
     "adsterra_link": "https://www.profitableratecpmnetwork.com/y85ifza5gr?key=e9b99b25f711bbb90b766acc16908635",
     "daily_video_limit": 8,
     "cooldown_minutes": 60,
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_link": "https://t.me/+8YFNIdFVSjU5M2Y9"
   },
   "broadcast_records.json": {
@@ -3961,7 +3961,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 950
+          "message_id": 1110
         }
       ]
     },
@@ -4960,7 +4960,6 @@
   },
   "auto_post_cycle.json": {
     "queue": [
-      "679",
       "673",
       "788",
       "607",
