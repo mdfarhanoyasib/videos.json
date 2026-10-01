@@ -11,7 +11,7 @@
     "daily_video_limit": 8,
     "maintenance_link": "https://t.me/+8YFNIdFVSjU5M2Y9",
     "single_ad_unlock": true,
-    "single_ad_seconds": 12
+    "single_ad_seconds": 15
   },
   "ads_config": {
     "interstitial_ids": [],
