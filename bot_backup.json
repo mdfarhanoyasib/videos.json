@@ -6,7 +6,7 @@
     "is_popular": false,
     "pop_broadcast": false,
     "broadcast_mode": false,
-    "bundle_mode": false,
+    "bundle_mode": true,
     "auto_burst_post": false,
     "blur_radius": 6,
     "how_to_watch_url": "👥 মোট ইউজার",
@@ -24,9 +24,7 @@
     "daily_video_limit": 8,
     "cooldown_minutes": 60,
     "maintenance_mode": false,
-    "maintenance_link": "https://t.me/+8YFNIdFVSjU5M2Y9",
-    "single_ad_unlock": false,
-    "single_ad_seconds": 15
+    "maintenance_link": "https://t.me/+8YFNIdFVSjU5M2Y9"
   },
   "broadcast_records.json": {
     "BC_60868": {
@@ -3504,7 +3502,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 849
+          "message_id": 1107
         }
       ]
     },
@@ -3729,7 +3727,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 867
+          "message_id": 1104
         }
       ]
     },
@@ -3846,7 +3844,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 859
+          "message_id": 1109
         }
       ]
     },
@@ -3900,7 +3898,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 864
+          "message_id": 1112
         }
       ]
     },
@@ -4035,7 +4033,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 879
+          "message_id": 1106
         }
       ]
     },
@@ -4161,7 +4159,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 872
+          "message_id": 1111
         }
       ]
     },
@@ -4251,7 +4249,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 877
+          "message_id": 1108
         }
       ]
     },
@@ -4269,7 +4267,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 885
+          "message_id": 1113
         }
       ]
     },
@@ -4278,7 +4276,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 886
+          "message_id": 1105
         }
       ]
     },
@@ -4332,7 +4330,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 892
+          "message_id": 1114
         }
       ]
     },
@@ -4594,41 +4592,8 @@
       "১৮ বছরের নিচে দেখা নিষেধ! রাতারাতি ট্রেন্ডিংয়ে ওঠা নতুন দেশি ভিডিও 🥵⚡️"
     ]
   },
-  "category_defaults.json": {
-    "ch*il*d": {
-      "title_template": "বা*চ্চা*দের ভাইরাল {count} টি ভিডিও আপলোড দেওয়া হয়েছে দেখে আসুন মাল আউট হয়ে যাবে 🥵🔥",
-      "thumbnail_url": "https://i.ibb.co/mC3p54NS/ba1ae010d814.jpg"
-    }
-  },
   "auto_post_cycle.json": {
     "queue": [
-      "794",
-      "789",
-      "665",
-      "715",
-      "709",
-      "743",
-      "649",
-      "791",
-      "592",
-      "720",
-      "777",
-      "663",
-      "668",
-      "703",
-      "689",
-      "557",
-      "773",
-      "644",
-      "706",
-      "553",
-      "674",
-      "713",
-      "736",
-      "683",
-      "708",
-      "776",
-      "784",
       "711",
       "686",
       "804",
