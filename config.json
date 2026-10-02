@@ -10,7 +10,7 @@
     "cooldown_minutes": 60,
     "daily_video_limit": 8,
     "maintenance_link": "https://t.me/+8YFNIdFVSjU5M2Y9",
-    "single_ad_unlock": false,
+    "single_ad_unlock": true,
     "single_ad_seconds": 15,
     "single_ad_all_users": false,
     "single_ad_whitelist": [
