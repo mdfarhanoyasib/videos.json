@@ -7,7 +7,7 @@
     "pop_broadcast": false,
     "broadcast_mode": false,
     "bundle_mode": true,
-    "auto_burst_post": false,
+    "auto_burst_post": true,
     "blur_radius": 6,
     "how_to_watch_url": "👥 মোট ইউজার",
     "unban_contact_url": "https://t.me/NAIME_654",
@@ -31,7 +31,8 @@
     "single_ad_all_users": false,
     "single_ad_whitelist": [
       "8656705096",
-      "@mahmud887"
+      "@mahmud887",
+      "6936261762"
     ]
   },
   "broadcast_records.json": {
@@ -3735,7 +3736,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 867
+          "message_id": 1206
         }
       ]
     },
@@ -4608,13 +4609,6 @@
   },
   "auto_post_cycle.json": {
     "queue": [
-      "794",
-      "789",
-      "665",
-      "715",
-      "709",
-      "743",
-      "649",
       "791",
       "592",
       "720",
@@ -4712,8 +4706,22 @@
       "739",
       "780",
       "796",
-      "486"
+      "486",
+      "794",
+      "789",
+      "665",
+      "715",
+      "709",
+      "743"
     ],
-    "cycle_num": 4
+    "cycle_num": 4,
+    "fails": {
+      "794": 1,
+      "789": 1,
+      "665": 1,
+      "715": 1,
+      "709": 1,
+      "743": 1
+    }
   }
 }
