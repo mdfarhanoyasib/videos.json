@@ -6,7 +6,7 @@
     "is_popular": false,
     "pop_broadcast": false,
     "broadcast_mode": false,
-    "bundle_mode": false,
+    "bundle_mode": true,
     "auto_burst_post": false,
     "blur_radius": 6,
     "how_to_watch_url": "👥 মোট ইউজার",
