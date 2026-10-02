@@ -28,7 +28,7 @@
     "maintenance_link": "https://t.me/+8YFNIdFVSjU5M2Y9",
     "single_ad_unlock": true,
     "single_ad_seconds": 15,
-    "single_ad_all_users": false,
+    "single_ad_all_users": true,
     "single_ad_whitelist": [
       "8656705096",
       "@mahmud887",
