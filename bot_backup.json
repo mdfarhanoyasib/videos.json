@@ -29,7 +29,9 @@
     "single_ad_unlock": false,
     "single_ad_seconds": 15,
     "single_ad_all_users": false,
-    "single_ad_whitelist": []
+    "single_ad_whitelist": [
+      "8656705096"
+    ]
   },
   "broadcast_records.json": {
     "BC_60868": {
