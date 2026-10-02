@@ -30,7 +30,8 @@
     "single_ad_seconds": 15,
     "single_ad_all_users": false,
     "single_ad_whitelist": [
-      "8656705096"
+      "8656705096",
+      "@mahmud887"
     ]
   },
   "broadcast_records.json": {
