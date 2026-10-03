@@ -6,7 +6,7 @@
     "monetag_id": "11802292",
     "how_to_watch_url": "",
     "maintenance_mode": false,
-    "adsterra_link": "https://www.profitableratecpmnetwork.com/zt8idyk1?key=73e5b02282572afd6263eef8001bfcc4",
+    "adsterra_link": "",
     "cooldown_minutes": 60,
     "daily_video_limit": 5,
     "maintenance_link": "https://t.me/+8YFNIdFVSjU5M2Y9",
@@ -19,12 +19,19 @@
       "6936261762",
       "8794930853",
       "6576339905"
+    ],
+    "ad_chain": [
+      {
+        "type": "monetag",
+        "id": "11802292",
+        "name": "Monetag"
+      }
     ]
   },
   "ads_config": {
     "interstitial_ids": [],
     "banners": [],
-    "direct_link": "https://www.profitableratecpmnetwork.com/zt8idyk1?key=73e5b02282572afd6263eef8001bfcc4"
+    "direct_link": ""
   },
   "filters": [
     {
