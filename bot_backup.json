@@ -17,6 +17,8 @@
     },
     "log_group_id": -1004313963189,
     "auto_broadcast_times": [
+      "10:30",
+      "16:00",
       "22:00"
     ],
     "bundle_title_template": "নতুন {count}টি মজার ভিডিও আপলোড দেওয়া হয়েছে",
@@ -3774,7 +3776,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 873
+          "message_id": 1281
         }
       ]
     },
@@ -3945,7 +3947,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 857
+          "message_id": 1279
         }
       ]
     },
@@ -4116,7 +4118,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 923
+          "message_id": 1278
         }
       ]
     },
@@ -4485,7 +4487,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 906
+          "message_id": 1280
         }
       ]
     },
@@ -4629,10 +4631,6 @@
   },
   "auto_post_cycle.json": {
     "queue": [
-      "711",
-      "686",
-      "804",
-      "657",
       "723",
       "687",
       "677",
