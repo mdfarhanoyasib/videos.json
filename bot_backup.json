@@ -7,7 +7,7 @@
     "pop_broadcast": false,
     "broadcast_mode": false,
     "bundle_mode": false,
-    "auto_burst_post": false,
+    "auto_burst_post": true,
     "blur_radius": 6,
     "how_to_watch_url": "👥 মোট ইউজার",
     "unban_contact_url": "https://t.me/NAIME_654",
@@ -3650,7 +3650,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 920
+          "message_id": 1311
         }
       ]
     },
@@ -4217,7 +4217,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 862
+          "message_id": 1310
         }
       ]
     },
@@ -4235,7 +4235,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 880
+          "message_id": 1309
         }
       ]
     },
@@ -4631,9 +4631,6 @@
   },
   "auto_post_cycle.json": {
     "queue": [
-      "742",
-      "740",
-      "597",
       "676",
       "611",
       "642",
