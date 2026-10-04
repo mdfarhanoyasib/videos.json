@@ -39,10 +39,16 @@
         "name": "profitableratecpmnetwork.com"
       }
     ],
-    "ref_enabled": false,
-    "ref_videos": 2,
+    "ref_enabled": true,
+    "ref_videos": 3,
     "ref_refs": 1,
-    "ref_groups": [],
+    "ref_groups": [
+      {
+        "title": "𝚅𝚒𝚛*𝚊𝚕 𝙻𝚒*𝚗𝚔 𝙱𝙳",
+        "url": "https://t.me/+IJTtduA0wAY3ZTk1",
+        "chat_id": -1004410599625
+      }
+    ],
     "daily_video_limit": 5,
     "cooldown_minutes": 60,
     "video_delete_minutes": 15,
