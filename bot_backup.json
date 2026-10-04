@@ -34,11 +34,6 @@
         "type": "link",
         "url": "https://www.profitableratecpmnetwork.com/zt8idyk1?key=73e5b02282572afd6263eef8001bfcc4",
         "name": "profitableratecpmnetwork.com"
-      },
-      {
-        "type": "link",
-        "url": "https://tr.admedialeads.com/click?camp=9053&pubid=9306",
-        "name": "tr.admedialeads.com"
       }
     ],
     "daily_video_limit": 5,
@@ -3578,7 +3573,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 1291
+          "message_id": 1360
         }
       ]
     },
@@ -3587,7 +3582,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 1290
+          "message_id": 1361
         }
       ]
     },
@@ -3596,7 +3591,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 1301
+          "message_id": 1362
         }
       ]
     },
@@ -3605,7 +3600,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 977
+          "message_id": 1363
         }
       ]
     },
@@ -3614,7 +3609,7 @@
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 1303
+          "message_id": 1364
         }
       ]
     },
@@ -4631,11 +4626,6 @@
   },
   "auto_post_cycle.json": {
     "queue": [
-      "581",
-      "584",
-      "586",
-      "588",
-      "590",
       "592",
       "594",
       "603",
