@@ -36,7 +36,10 @@
         "url": "https://www.profitableratecpmnetwork.com/y85ifza5gr?key=e9b99b25f711bbb90b766acc16908635",
         "name": "profitableratecpmnetwork.com"
       }
-    ]
+    ],
+    "referral_enabled": false,
+    "referral_videos": 2,
+    "referral_refs": 1
   },
   "ads_config": {
     "interstitial_ids": [],
