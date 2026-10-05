@@ -6,7 +6,7 @@
     "is_popular": false,
     "pop_broadcast": false,
     "broadcast_mode": false,
-    "bundle_mode": false,
+    "bundle_mode": true,
     "auto_burst_post": false,
     "blur_radius": 6,
     "how_to_watch_url": "👥 মোট ইউজার",
@@ -39,7 +39,7 @@
         "name": "profitableratecpmnetwork.com"
       }
     ],
-    "ref_enabled": true,
+    "ref_enabled": false,
     "ref_videos": 2,
     "ref_refs": 1,
     "ref_groups": [],
@@ -4562,6 +4562,15 @@
         {
           "chat_id": -1004410599625,
           "message_id": 985
+        }
+      ]
+    },
+    "807": {
+      "created_at": 1790709187.3380997,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 990
         }
       ]
     }
