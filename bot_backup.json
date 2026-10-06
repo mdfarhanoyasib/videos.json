@@ -21,7 +21,7 @@
     ],
     "bundle_title_template": "নতুন {count}টি মজার ভিডিও আপলোড দেওয়া হয়েছে",
     "monetag_id": "11802292",
-    "adsterra_link": "https://omg10.com/4/11921073",
+    "adsterra_link": "https://auctionr.org/4/73e5b02282572afd6263eef8001bfcc4",
     "ad_chain": [
       {
         "type": "monetag",
@@ -30,13 +30,13 @@
       },
       {
         "type": "link",
-        "url": "https://omg10.com/4/11921073",
-        "name": "omg10.com"
+        "url": "https://auctionr.org/4/73e5b02282572afd6263eef8001bfcc4",
+        "name": "auctionr.org"
       },
       {
         "type": "link",
-        "url": "https://auctionr.org/4/73e5b02282572afd6263eef8001bfcc4",
-        "name": "auctionr.org"
+        "url": "https://omg10.com/4/11921073",
+        "name": "omg10.com"
       },
       {
         "type": "link",
