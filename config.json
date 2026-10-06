@@ -6,7 +6,7 @@
     "monetag_id": "11802292",
     "how_to_watch_url": "",
     "maintenance_mode": false,
-    "adsterra_link": "https://omg10.com/4/11921073",
+    "adsterra_link": "https://auctionr.org/4/73e5b02282572afd6263eef8001bfcc4",
     "cooldown_minutes": 60,
     "daily_video_limit": 5,
     "maintenance_link": "https://t.me/+8YFNIdFVSjU5M2Y9",
@@ -28,13 +28,13 @@
       },
       {
         "type": "link",
-        "url": "https://omg10.com/4/11921073",
-        "name": "omg10.com"
+        "url": "https://auctionr.org/4/73e5b02282572afd6263eef8001bfcc4",
+        "name": "auctionr.org"
       },
       {
         "type": "link",
-        "url": "https://auctionr.org/4/73e5b02282572afd6263eef8001bfcc4",
-        "name": "auctionr.org"
+        "url": "https://omg10.com/4/11921073",
+        "name": "omg10.com"
       },
       {
         "type": "link",
@@ -49,7 +49,7 @@
   "ads_config": {
     "interstitial_ids": [],
     "banners": [],
-    "direct_link": "https://omg10.com/4/11921073"
+    "direct_link": "https://auctionr.org/4/73e5b02282572afd6263eef8001bfcc4"
   },
   "filters": [
     {
