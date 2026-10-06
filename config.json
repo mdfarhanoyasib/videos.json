@@ -5,7 +5,7 @@
     "tutorial_id": "https://www.youtube.com/embed/dQw4w9WgXcQ",
     "monetag_id": "11802292",
     "how_to_watch_url": "",
-    "maintenance_mode": false,
+    "maintenance_mode": true,
     "adsterra_link": "https://auctionr.org/4/73e5b02282572afd6263eef8001bfcc4",
     "cooldown_minutes": 60,
     "daily_video_limit": 5,
