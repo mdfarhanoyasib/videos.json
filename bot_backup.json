@@ -57,7 +57,7 @@
     "daily_video_limit": 5,
     "cooldown_minutes": 60,
     "video_delete_minutes": 15,
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_link": "https://t.me/+8YFNIdFVSjU5M2Y9",
     "single_ad_unlock": true,
     "single_ad_seconds": 15,
