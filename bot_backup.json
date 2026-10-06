@@ -6,7 +6,7 @@
     "is_popular": false,
     "pop_broadcast": false,
     "broadcast_mode": false,
-    "bundle_mode": true,
+    "bundle_mode": false,
     "auto_burst_post": false,
     "blur_radius": 6,
     "how_to_watch_url": "👥 মোট ইউজার",
@@ -57,7 +57,7 @@
     "daily_video_limit": 5,
     "cooldown_minutes": 60,
     "video_delete_minutes": 15,
-    "maintenance_mode": false,
+    "maintenance_mode": true,
     "maintenance_link": "https://t.me/+8YFNIdFVSjU5M2Y9",
     "single_ad_unlock": true,
     "single_ad_seconds": 15,
@@ -3495,6 +3495,66 @@
     ],
     "969": [
       969
+    ],
+    "971": [
+      971
+    ],
+    "972": [
+      972
+    ],
+    "973": [
+      973
+    ],
+    "974": [
+      974
+    ],
+    "975": [
+      975
+    ],
+    "976": [
+      976
+    ],
+    "977": [
+      977
+    ],
+    "978": [
+      978
+    ],
+    "979": [
+      979
+    ],
+    "980": [
+      980
+    ],
+    "981": [
+      981
+    ],
+    "982": [
+      982
+    ],
+    "983": [
+      983
+    ],
+    "984": [
+      984
+    ],
+    "985": [
+      985
+    ],
+    "986": [
+      986
+    ],
+    "987": [
+      987
+    ],
+    "988": [
+      988
+    ],
+    "989": [
+      989
+    ],
+    "990": [
+      990
     ]
   },
   "channel_posts.json": {
@@ -4602,6 +4662,186 @@
         {
           "chat_id": -1004410599625,
           "message_id": 1412
+        }
+      ]
+    },
+    "971": {
+      "created_at": 1791308005.5919666,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1413
+        }
+      ]
+    },
+    "972": {
+      "created_at": 1791308013.5784173,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1414
+        }
+      ]
+    },
+    "973": {
+      "created_at": 1791308021.4099607,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1415
+        }
+      ]
+    },
+    "974": {
+      "created_at": 1791308032.9631054,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1416
+        }
+      ]
+    },
+    "975": {
+      "created_at": 1791308040.9096956,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1417
+        }
+      ]
+    },
+    "976": {
+      "created_at": 1791308049.3459337,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1418
+        }
+      ]
+    },
+    "977": {
+      "created_at": 1791308058.055738,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1419
+        }
+      ]
+    },
+    "978": {
+      "created_at": 1791308066.1232412,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1420
+        }
+      ]
+    },
+    "979": {
+      "created_at": 1791308074.12443,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1421
+        }
+      ]
+    },
+    "980": {
+      "created_at": 1791308082.187382,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1422
+        }
+      ]
+    },
+    "981": {
+      "created_at": 1791308090.5743222,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1423
+        }
+      ]
+    },
+    "982": {
+      "created_at": 1791308098.8366926,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1424
+        }
+      ]
+    },
+    "983": {
+      "created_at": 1791308107.1016464,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1425
+        }
+      ]
+    },
+    "984": {
+      "created_at": 1791308115.4706094,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1426
+        }
+      ]
+    },
+    "985": {
+      "created_at": 1791308123.5890362,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1427
+        }
+      ]
+    },
+    "986": {
+      "created_at": 1791308131.582515,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1428
+        }
+      ]
+    },
+    "987": {
+      "created_at": 1791308139.2844114,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1429
+        }
+      ]
+    },
+    "988": {
+      "created_at": 1791308147.0560215,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1430
+        }
+      ]
+    },
+    "989": {
+      "created_at": 1791308155.3396206,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1431
+        }
+      ]
+    },
+    "990": {
+      "created_at": 1791308163.0358593,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1432
         }
       ]
     }
