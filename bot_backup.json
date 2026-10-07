@@ -6,7 +6,7 @@
     "is_popular": false,
     "pop_broadcast": false,
     "broadcast_mode": false,
-    "bundle_mode": false,
+    "bundle_mode": true,
     "auto_burst_post": false,
     "blur_radius": 6,
     "how_to_watch_url": "👥 মোট ইউজার",
@@ -3555,6 +3555,23 @@
     ],
     "990": [
       990
+    ],
+    "991": [
+      991
+    ],
+    "992": [
+      992
+    ],
+    "993": [
+      993
+    ],
+    "995": [
+      995,
+      996,
+      997
+    ],
+    "999": [
+      999
     ]
   },
   "channel_posts.json": {
@@ -4842,6 +4859,51 @@
         {
           "chat_id": -1004410599625,
           "message_id": 1432
+        }
+      ]
+    },
+    "991": {
+      "created_at": 1791394888.8331358,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1434
+        }
+      ]
+    },
+    "992": {
+      "created_at": 1791394896.8344028,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1435
+        }
+      ]
+    },
+    "993": {
+      "created_at": 1791394905.3642316,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1436
+        }
+      ]
+    },
+    "995": {
+      "created_at": 1791394994.9803264,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1437
+        }
+      ]
+    },
+    "999": {
+      "created_at": 1791396696.8098567,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1438
         }
       ]
     }
