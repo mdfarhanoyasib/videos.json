@@ -2,7 +2,7 @@
   "admin_settings.json": {
     "category": "viral",
     "cat_name": "ভাইরাল",
-    "ads": 4,
+    "ads": 3,
     "is_popular": false,
     "pop_broadcast": false,
     "broadcast_mode": false,
