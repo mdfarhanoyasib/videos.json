@@ -44,7 +44,7 @@
         "name": "omg10.com"
       }
     ],
-    "ref_enabled": false,
+    "ref_enabled": true,
     "ref_videos": 2,
     "ref_refs": 1,
     "ref_groups": [],
