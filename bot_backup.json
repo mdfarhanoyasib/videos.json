@@ -44,7 +44,7 @@
         "name": "omg10.com"
       }
     ],
-    "ref_enabled": true,
+    "ref_enabled": false,
     "ref_videos": 2,
     "ref_refs": 1,
     "ref_groups": [],
@@ -3478,9 +3478,6 @@
     "807": [
       807,
       808
-    ],
-    "1023": [
-      1023
     ]
   },
   "channel_posts.json": {
@@ -4573,12 +4570,12 @@
         }
       ]
     },
-    "1023": {
-      "created_at": 1791569922.0958889,
+    "807": {
+      "created_at": 1790709187.3380997,
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 1450
+          "message_id": 990
         }
       ]
     }
