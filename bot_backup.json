@@ -1,7 +1,7 @@
 {
   "admin_settings.json": {
-    "category": "ch*il*d",
-    "cat_name": "বা*চ্চা*দের",
+    "category": "viral",
+    "cat_name": "ভাইরাল",
     "ads": 3,
     "is_popular": false,
     "pop_broadcast": false,
@@ -3484,6 +3484,12 @@
     "807": [
       807,
       808
+    ],
+    "1025": [
+      1025
+    ],
+    "1027": [
+      1027
     ]
   },
   "channel_posts.json": {
@@ -4573,6 +4579,24 @@
         {
           "chat_id": -1004410599625,
           "message_id": 985
+        }
+      ]
+    },
+    "1025": {
+      "created_at": 1791654059.2165546,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1453
+        }
+      ]
+    },
+    "1027": {
+      "created_at": 1791654165.5063856,
+      "posts": [
+        {
+          "chat_id": -1004410599625,
+          "message_id": 1454
         }
       ]
     }
