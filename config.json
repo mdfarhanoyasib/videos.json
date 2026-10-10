@@ -42,7 +42,7 @@
         "name": "omg10.com"
       }
     ],
-    "referral_enabled": false,
+    "referral_enabled": true,
     "referral_videos": 2,
     "referral_refs": 1
   },
