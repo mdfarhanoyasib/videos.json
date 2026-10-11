@@ -1,5 +1,6 @@
 {
   "admin_settings.json": {
+    "ask_category": true,
     "category": "ch*il*d",
     "cat_name": "বা*চ্চা*দের",
     "ads": 3,
@@ -44,16 +45,10 @@
         "name": "omg10.com"
       }
     ],
-    "ref_enabled": true,
+    "ref_enabled": false,
     "ref_videos": 2,
     "ref_refs": 1,
-    "ref_groups": [
-      {
-        "title": "𝚅𝚒𝚛*𝚊𝚕 𝙻𝚒*𝚗𝚔 𝙱𝙳",
-        "url": "https://t.me/+IJTtduA0wAY3ZTk1",
-        "chat_id": -1004410599625
-      }
-    ],
+    "ref_groups": [],
     "daily_video_limit": 5,
     "cooldown_minutes": 60,
     "video_delete_minutes": 15,
@@ -3484,37 +3479,6 @@
     "807": [
       807,
       808
-    ],
-    "1025": [
-      1025
-    ],
-    "1027": [
-      1027
-    ],
-    "1029": [
-      1029
-    ],
-    "1031": [
-      1031
-    ],
-    "1033": [
-      1033,
-      1034,
-      1035
-    ],
-    "1037": [
-      1037,
-      1038,
-      1039
-    ],
-    "1041": [
-      1041
-    ],
-    "1043": [
-      1043
-    ],
-    "1045": [
-      1045
     ]
   },
   "channel_posts.json": {
@@ -4607,84 +4571,12 @@
         }
       ]
     },
-    "1025": {
-      "created_at": 1791654059.2165546,
+    "807": {
+      "created_at": 1790709187.3380997,
       "posts": [
         {
           "chat_id": -1004410599625,
-          "message_id": 1453
-        }
-      ]
-    },
-    "1027": {
-      "created_at": 1791654165.5063856,
-      "posts": [
-        {
-          "chat_id": -1004410599625,
-          "message_id": 1454
-        }
-      ]
-    },
-    "1029": {
-      "created_at": 1791657358.498678,
-      "posts": [
-        {
-          "chat_id": -1004410599625,
-          "message_id": 1455
-        }
-      ]
-    },
-    "1031": {
-      "created_at": 1791657392.0661347,
-      "posts": [
-        {
-          "chat_id": -1004410599625,
-          "message_id": 1456
-        }
-      ]
-    },
-    "1033": {
-      "created_at": 1791657427.4176488,
-      "posts": [
-        {
-          "chat_id": -1004410599625,
-          "message_id": 1457
-        }
-      ]
-    },
-    "1037": {
-      "created_at": 1791657497.5463328,
-      "posts": [
-        {
-          "chat_id": -1004410599625,
-          "message_id": 1458
-        }
-      ]
-    },
-    "1041": {
-      "created_at": 1791657548.5523763,
-      "posts": [
-        {
-          "chat_id": -1004410599625,
-          "message_id": 1459
-        }
-      ]
-    },
-    "1043": {
-      "created_at": 1791658076.7770932,
-      "posts": [
-        {
-          "chat_id": -1004410599625,
-          "message_id": 1460
-        }
-      ]
-    },
-    "1045": {
-      "created_at": 1791737579.1346874,
-      "posts": [
-        {
-          "chat_id": -1004410599625,
-          "message_id": 1463
+          "message_id": 990
         }
       ]
     }
