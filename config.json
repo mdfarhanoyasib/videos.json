@@ -44,7 +44,8 @@
     ],
     "referral_enabled": true,
     "referral_videos": 2,
-    "referral_refs": 1
+    "referral_refs": 1,
+    "thumb_proxy": "https://tgthumb.sdf3e43nf.workers.dev"
   },
   "ads_config": {
     "interstitial_ids": [],
